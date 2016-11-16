@@ -25,6 +25,7 @@ body
 	height: 35px;
 	width: 80px;
 	margin: 50px 0 0 100px;
+	border-radius: 5px;
 }
 .cabeza img
 {
