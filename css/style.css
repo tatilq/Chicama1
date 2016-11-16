@@ -8,7 +8,6 @@ body
 
 .col 
 { 
-	 
 	text-align:left;
 }
 .cabeza
@@ -60,18 +59,14 @@ body
 {
 	width: 100%;
 }
-.imagenes p
-{
-
-}
 .pie
 {
 	margin-top: -1px;
-	background-color: #555451;
+	background-color: #343332;
 }
 .pie p
 {
 	color:white;
-	font-size: 15px;
-	margin-left: 30px;
+	margin-left: 50px;
+	padding: 10px 0 10px 0;
 }
