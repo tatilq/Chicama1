@@ -23,9 +23,10 @@ body
 	background-color: #F8A50A;
 	border: 1px solid #F8A50A;
 	height: 35px;
-	width: 80px;
+	width: 85px;
 	margin: 50px 0 0 100px;
-	border-radius: 5px;
+	font-size: 15px;
+	border-radius:5px;
 }
 .cabeza img
 {
