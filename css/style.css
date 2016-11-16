@@ -52,16 +52,19 @@ body
 }
 .contenedor2
 {
-	padding-left: 50px;
-	padding-right: 50px;
+	padding: 10px  50px 0px 50px;
 }
 .imagenes img
 {
 	width: 100%;
+	margin-bottom: 20px;
+}
+.imagenes p
+{
+	margin-bottom: 10px;
 }
 .pie
 {
-	margin-top: -1px;
 	background-color: #343332;
 }
 .pie p
